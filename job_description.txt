@@ -1,0 +1,2 @@
+We are looking for a Python Developer with knowledge of Flask, APIs, and NLP.
+Should be familiar with machine learning, scikit-learn, and natural language processing tools.
