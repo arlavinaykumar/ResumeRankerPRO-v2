@@ -16,6 +16,15 @@ AI-powered resume ranking system using NLP, TF-IDF, and Flask to help HRs shortl
 - SpaCy (`en_core_web_sm`)
 - Scikit-learn
 - PyMuPDF
-
+## 📁 Folder Structure
+ResumeRankerPRO v2/
+├── app.py
+├── requirements.txt
+├── job_description.txt
+├── templates/
+│ └── index.html
+├── resumes/
+├── .gitignore
+└── README.md
 
 
